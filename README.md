@@ -17,17 +17,17 @@ The **Heart Disease Prediction System** is a machine learning-based project desi
 - **Programming Language:**
   - ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 - **Libraries:** 
-  - ![Pandas](https://img.shields.io/badge/Pandas-Library-green?logo=pandas&logoColor=white)
-  - ![NumPy](https://img.shields.io/badge/NumPy-Library-orange?logo=numpy&logoColor=white)
-  - ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-Library-purple?logo=scikit-learn&logoColor=white)
-  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-Library-yellow?logo=matplotlib&logoColor=white)
-  - ![Seaborn](https://img.shields.io/badge/Seaborn-Library-pink?logo=seaborn&logoColor=white)
+  - ![Pandas](https://img.shields.io/badge/Library-Pandas-green?logo=pandas&logoColor=white)
+  - ![NumPy](https://img.shields.io/badge/Library-NumPy-orange?logo=numpy&logoColor=white)
+  - ![Scikit-learn](https://img.shields.io/badge/Library-Scikit%20Learn-purple?logo=scikit-learn&logoColor=white)
+  - ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-yellow?logo=matplotlib&logoColor=white)
+  - ![Seaborn](https://img.shields.io/badge/Library-Seaborn-pink?logo=seaborn&logoColor=white)
 - **Tools**:
-  - ![Google Colab](https://img.shields.io/badge/Google%20Colab-IDE-cyan?logo=googlecolab&logoColor=white)
+  - ![Google Colab](https://img.shields.io/badge/IDE-Google%20Colab-cyan?logo=googlecolab&logoColor=white)
   - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-black?logo=jupyter&logoColor=white)
-  - ![VS Code](https://img.shields.io/badge/VS%20Code-IDE-navy?logo=visual-studio-code&logoColor=white)
+  - ![VS Code](https://img.shields.io/badge/IDE-VS%20Code-navy?logo=visual-studio-code&logoColor=white)
 - **Deployment**:
-   - ![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red?logo=streamlit)
+   - ![Streamlit](https://img.shields.io/badge/Deployment-Streamlit-red?logo=streamlit)
 
 
 ## 🎯Dataset
