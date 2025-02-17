@@ -60,13 +60,15 @@ user_input = get_user_input()
 st.subheader('📊 Patient Data Overview')
 st.write(user_input)
 
-# Predict using the model
-prediction = model.predict(user_input)
+if st.button("🔍 Predict"):
+ 
+    # Predict using the model
+    prediction = model.predict(user_input)
 
-# Display Prediction Results
-st.subheader('🧑‍⚕️ Prediction Result')
+    # Display Prediction Results
+    st.subheader('🧑‍⚕️ Prediction Result')
 
-if prediction[0] == 0:
-    st.markdown('<p style="color:green; font-size: 24px; font-weight:bold; "> You do not have a heart disease 😊💚 </p>', unsafe_allow_html=True)
-else:
-    st.markdown('<p style="color:red; font-size: 24px; font-weight:bold;"> You have a heart disease ☹️❤️ </p>', unsafe_allow_html=True)
+    if prediction[0] == 0:
+        st.markdown('<p style="color:green; font-size: 24px; font-weight:bold; "> The Person do not have a heart disease 😊💚 </p>', unsafe_allow_html=True)
+    else:
+        st.markdown('<p style="color:red; font-size: 24px; font-weight:bold;"> The Person have a heart disease ☹️❤️ </p>', unsafe_allow_html=True)
